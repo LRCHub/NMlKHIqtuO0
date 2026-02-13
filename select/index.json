@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Viento",
+  "base_artist": "Caifanes",
+  "createdAt": "2026-02-13T04:45:59.075380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "El viento",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/01_El_viento_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Viento Loco",
+      "artist": "Git",
+      "has_synced": true,
+      "path": "select/02_Viento_Loco_Git.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Contra el Viento (Controvento)",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/03_Contra_el_Viento_(Controvento)_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Contra el viento",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/04_Contra_el_viento_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "El Pube (Versione viento)",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": false,
+      "path": "select/05_El_Pube_(Versione_viento)_Elio_e_le_Storie_Tese.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Un Ancla En El Viento",
+      "artist": "Eros Ramazzotti",
+      "has_synced": true,
+      "path": "select/06_Un_Ancla_En_El_Viento_Eros_Ramazzotti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Viento 'e terra - Live (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/07_Viento_'e_terra_-_Live_(Remastered)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Viento 'e terra (Live Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": false,
+      "path": "select/08_Viento_'e_terra_(Live_Remastered)_Pino_Daniele.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Viento 'e terra (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/09_Viento_'e_terra_(Remastered)_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Viento (Remastered 2008)",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/10_Viento_(Remastered_2008)_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Viento (Remastered)",
+      "artist": "Pino Daniele",
+      "has_synced": true,
+      "path": "select/11_Viento_(Remastered)_Pino_Daniele.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Las Cinco Borregas / Despedida Con Puro Viento",
+      "artist": "El Fantasma",
+      "has_synced": true,
+      "path": "select/12_Las_Cinco_Borregas___Despedida_Con_Puro_Viento_El_Fantasma.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "El viento",
+      "artist": "Manu Chao",
+      "has_synced": true,
+      "path": "select/13_El_viento_Manu_Chao.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Como el Viento",
+      "artist": "Saratoga",
+      "has_synced": true,
+      "path": "select/14_Como_el_Viento_Saratoga.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Contra el Viento",
+      "artist": "Warcry",
+      "has_synced": true,
+      "path": "select/15_Contra_el_Viento_Warcry.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Contra el Viento",
+      "artist": "WarCry",
+      "has_synced": true,
+      "path": "select/16_Contra_el_Viento_WarCry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Viento",
+      "artist": "Caifanes",
+      "has_synced": false,
+      "path": "select/pl_01_Viento_Caifanes.txt"
+    }
+  ]
+}
